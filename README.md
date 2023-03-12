@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Can Çakmak</h1>
-<h3 align="center">A passionate Android developer from Turkey</h3>
+<h3 align="center"> Android developer </h3>
 
 - 🌱 I’m currently learning **Kotlin & Java**
 
