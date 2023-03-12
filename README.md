@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin & Java**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: yusufcakmak29@gmail.com</h3>
 <p align="left">
 </p>
 
